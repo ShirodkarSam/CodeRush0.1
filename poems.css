@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+
+.navbar {
+    box-shadow: 2px 2px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+li{
+    display: inline-block;
+margin-right: 130px;
+margin-left: 10pxpx;
+padding: 0;
+margin-bottom: 15px;
+font-family: cursive;
+font-size: 20px;
+}
+
+a {
+    font-size: 48px;
+    color: lightpink;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.para-above-poem {
+  font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+  font-size: 1.8em;
+  color: #ADD8E6; /* Light blue */
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+  font-size: 75px;
+}
+
+.poem-title{
+    font-family: cursive;
+    font-size: 75px;
+    text-align: center;
+    color: plum;
+}
+
+.dreams{
+    text-align: center;
+    font-family: cursive;
+    font-size: 45px;
+    color: lightpink;
+}
